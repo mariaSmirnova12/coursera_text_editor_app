@@ -27,4 +27,4 @@ time -> tie -> tee -> thee -> theme
 - *Generate Markov Text* (implemented as list of lists).
 List of ListNode objects is created. Each ListNode contains a word and a list of words which follow that word in the source text.
 
-![Project screenshot](https://github.com/mariaSmirnova12/coursera_text_editor_app/blob/master/Screenshot_project.png)
+![Project screenshot](https://github.com/mariaSmirnova12/coursera_text_editor_app/blob/master/screenshot_project.png)
